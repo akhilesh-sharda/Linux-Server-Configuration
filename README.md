@@ -3,7 +3,7 @@
 #### Notes for reviewer:
   * Public IP: 54.89.183.217
   * SSH PORT: 2200
-  
+  * Project URL: ec2-54-89-183-217.compute-1.amazonaws.com
 ### Tasks given and method for completion:
 
 * Start a new Ubuntu Linux server instance on Amazon Lightsail.
