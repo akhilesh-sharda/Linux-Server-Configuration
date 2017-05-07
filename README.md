@@ -3,7 +3,6 @@
 #### Notes for reviewer:
   * Public IP: 54.89.183.217
   * SSH PORT: 2200
-  * Full project URL: 54.89.183.217
   
 ### Tasks given and method for completion:
 
